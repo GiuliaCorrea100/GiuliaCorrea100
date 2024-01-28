@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giulia Correa</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 📫 How to reach me **giuliarafaela32@gmail.com**
+<h2 align="center"> 📫 How to reach me **giuliarafaela32@gmail.com** </h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
