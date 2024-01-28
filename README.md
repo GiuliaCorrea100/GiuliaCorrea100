@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giulia Correa</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giuliacorrea100" alt="giuliacorrea100" /></a> </p>
-
 - 📫 How to reach me **giuliarafaela32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
