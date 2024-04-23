@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Giulia Correa</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h1>Hi 👋, I'm Giulia Correa</h1>
+<h3>A frontend developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giuliacorrea100" alt="giuliacorrea100" /></a> </p>
 
@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliacorrea100&show_icons=true&locale=en" alt="giuliacorrea100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giuliacorrea100&" alt="giuliacorrea100" /></p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
