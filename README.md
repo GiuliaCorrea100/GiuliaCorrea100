@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/GiuliaCorrea100/GiuliaCorrea100/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="left">Hi 👋! My name is Giulia and I'm a Web Developer.</h2>
 
 ###
