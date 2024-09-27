@@ -11,5 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=GiuliaCorrea100&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiuliaCorrea100&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCorrea100&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?GiuliaCorrea100=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
