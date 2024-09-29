@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖊 current learning jQuery
+🖊 current learning jQuery, Figma and Version Control
 
 
 ## 🌐 Socials:
