@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊Front-End Developer seeking new challenges to apply and enhance skills in HTML, CSS, JavaScript, and modern frameworks, contributing to innovative and user-centered solutions.<br>🌱Currently learning: jQuery, Figma, Version Controle and Node.js
+😊Front-End Developer seeking new challenges to apply and enhance skills in HTML, CSS, JavaScript, and modern frameworks, contributing to innovative and user-centered solutions.<br>🌱Currently learning: jQuery, Figma and Node.js
 
 
 ## 🌐 Socials:
