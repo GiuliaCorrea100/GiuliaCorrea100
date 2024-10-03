@@ -1,6 +1,7 @@
 # 💫 About Me:
 😊Front-End Developer seeking new challenges to apply and enhance skills in HTML, CSS, JavaScript, and modern frameworks, contributing to innovative and user-centered solutions.<br>🌱Currently learning: jQuery, Figma and Node.js
 
+🎈
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giulia__correa_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giulia__correa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/giulia-correa-silva) 
