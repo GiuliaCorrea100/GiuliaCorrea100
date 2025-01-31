@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 Front-End & Back-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions. <br><br> <br>🔧I'm currently working on:A vehicle registration, consultation and management system using web development applications.<br><br><br>🌱I'm currently learning: Application Programming Interfaces(APIs); Express.js with Node.js; EJS; Adveced JavaScript
+😊 Front-End & Back-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions. <br><br> <br>🔧I'm currently working on - A vehicle registration, consultation and management system using web development applications.<br><br><br>🌱I'm currently learning - Application Programming Interfaces(APIs); Express.js with Node.js; EJS; Adveced JavaScript
 
 
 ## 🌐 Socials:
