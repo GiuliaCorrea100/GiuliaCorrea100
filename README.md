@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 Front-End & Back-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions.
+🍎 Front-End & Back-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions.
 
 🔧 I'm currently working on:  
 - A vehicle registration, consultation and management system web-based platform.  
