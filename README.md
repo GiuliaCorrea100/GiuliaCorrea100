@@ -2,8 +2,8 @@
 🍎 Front-End & Back-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions.
 
 🔧 I'm currently working on:  
-- A vehicle registration, consultation and management system web-based platform.  
-- A social platform designed to help public institution professors connect and exchange job locations more efficiently.
+- 🚘 A vehicle registration, consultation and management system web-based platform.  
+- 👩🏻‍🏫 A social platform designed to help public institution professors connect and exchange job locations more efficiently.
 
 🌱 I'm currently learning:  
 - Advanced JavaScript  
