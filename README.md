@@ -9,7 +9,10 @@
 - Advanced JavaScript  
 - PostgreSQL  
 - React.js  
-- A bit of Nest.js  
+- A bit of Nest.js
+- DevOps concepts
+
+☁️ Exploring the basics of Cloud Computing and DevOps concepts to strengthen my foundation in modern software deployment and infrastructure.
 
 ---
 
