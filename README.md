@@ -1,9 +1,9 @@
 # 💫 About Me:
 🍎 Front-End & Back-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions.
 
-🎓 I'm currently pursuing a Bachelor’s degree in Computer Science at UNIR - Universidade Federal de Rondônia.
+🎓 Pursuing a Bachelor’s degree in Computer Science at UNIR - Universidade Federal de Rondônia.
 
-🔧 I'm currently working on:  
+🔧 Ongoing projects include: 
 - 🚘 A vehicle registration, consultation and management system web-based platform.  
 - 👩🏻‍🏫 A social platform designed to help public institution professors connect and exchange job locations more efficiently.
 
@@ -14,7 +14,7 @@
 - A bit of Nest.js
 - DevOps concepts
 
-☁️ Exploring the basics of Cloud Computing and DevOps concepts to strengthen my foundation in modern software deployment and infrastructure.
+☁️ Taking my first steps into the world of Cloud and DevOps, exploring the basics and concepts to strengthen my foundation in modern software deployment and infrastructure.
 
 ---
 
