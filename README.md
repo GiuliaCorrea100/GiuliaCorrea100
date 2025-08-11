@@ -21,8 +21,10 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giulia__correa_) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giulia__correa_)
 
-📧 Email: giuliarafaela32@gmail.com
+📫 Email: giuliarafaela32@gmail.com
 
+👩🏻‍💻 www.linkedin.com/in/giulia-correa-3358352a1
+ 
 ---
 # 💻 Tech Stack:
 
