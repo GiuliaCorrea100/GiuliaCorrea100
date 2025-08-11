@@ -23,7 +23,7 @@
 
 📫 Email: giuliarafaela32@gmail.com
 
-👩🏻‍💻 www.linkedin.com/in/giulia-correa-3358352a1
+👩🏻‍💻 LinkedIn: www.linkedin.com/in/giulia-correa-3358352a1
  
 ---
 # 💻 Tech Stack:
