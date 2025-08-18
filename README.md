@@ -13,7 +13,7 @@
 - A bit of Nest.js
 - DevOps concepts
 
-☁️ Taking my first steps into the world of Cloud and DevOps, exploring the basics and concepts to strengthen my foundation in modern software deployment and infrastructure.
+☁️ Taking my first steps into the world of Cloud Computing, exploring the basics and concepts to strengthen my foundation in modern software deployment and infrastructure.
 
 ---
 
