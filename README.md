@@ -11,7 +11,7 @@
 - TypeScript  
 - React.js  
 - A bit of Nest.js
-- DevOps concepts
+- Cloud basics
 
 ☁️ Taking my first steps into the world of Cloud Computing, exploring the basics and concepts to strengthen my foundation in modern software deployment and infrastructure.
 
