@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍎 Front-End & Back-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions.
+🍎 Front-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions.
 
 🎓 Pursuing a Bachelor’s degree in Computer Science at UNIR - Universidade Federal de Rondônia.
 
