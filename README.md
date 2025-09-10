@@ -11,6 +11,7 @@
 - React.js
 - TypeScript  
 - A bit of Nest.js
+- PostgreSQL
 - Cloud basics
 
 ☁️ Taking my first steps into the world of Cloud Computing, exploring the basics and concepts to strengthen my foundation in modern software deployment and infrastructure.
