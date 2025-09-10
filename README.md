@@ -8,8 +8,8 @@
 - 👩🏻‍🏫 A social platform designed to help public institution professors connect and exchange job locations more efficiently.
 
 🌱 I'm currently learning:  
+- React.js
 - TypeScript  
-- React.js  
 - A bit of Nest.js
 - Cloud basics
 
