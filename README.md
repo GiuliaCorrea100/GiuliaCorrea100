@@ -8,12 +8,7 @@
 - 👩🏻‍🏫 A social platform designed to help public institution professors connect and exchange job locations more efficiently.
 
 🌱 I'm currently learning:  
-- React.js
-- TypeScript  
-- A bit of Nest.js
-- Cloud basics
-
-☁️ Taking my first steps into the world of Cloud Computing, exploring the basics and concepts to strengthen my foundation in modern software deployment and infrastructure.
+- Linux
 
 ---
 
