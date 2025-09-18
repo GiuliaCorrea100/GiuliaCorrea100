@@ -9,6 +9,7 @@
 
 🌱 I'm currently learning:  
 - Linux
+- OCI Foundations
 
 ---
 
