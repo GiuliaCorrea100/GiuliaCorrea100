@@ -8,7 +8,7 @@
 - 👩🏻‍🏫 A social platform designed to help public institution professors connect and exchange job locations more efficiently.
 
 🌱 I'm currently learning:  
-- Linux
+- Linux  
 
 ---
 
@@ -18,9 +18,10 @@
 
 📫 Email: giuliarafaela32@gmail.com
 
-👩🏻‍💻 LinkedIn: www.linkedin.com/in/giulia-correa-3358352a1
- 
+👩🏻‍💻 LinkedIn: https://www.linkedin.com/in/giulia-correa-3358352a1
+
 ---
+
 # 💻 Tech Stack:
 
 ### Languages
@@ -41,7 +42,20 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
+![Axios](https://img.shields.io/badge/axios-%235A29E4.svg?style=plastic&logo=axios&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/react--hook--form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
+![Yup](https://img.shields.io/badge/yup-%2300C4CC.svg?style=plastic)
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) 
+![Bcrypt](https://img.shields.io/badge/bcrypt-%23323330.svg?style=plastic) 
+![Multer](https://img.shields.io/badge/multer-%23FFCA28.svg?style=plastic) 
+![Class Validator](https://img.shields.io/badge/class--validator-%23E34F26.svg?style=plastic)
+![Class Transformer](https://img.shields.io/badge/class--transformer-%23007ACC.svg?style=plastic)
+
+---
+
+### Database & ORM
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/typeorm-%23FE0803.svg?style=plastic)
 
 ---
 
@@ -58,6 +72,35 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=plastic&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
+
+---
+
+# 🚀 Featured Projects
+
+### 🚘 Fleet Management System (Frotas)
+A full-stack web application designed to manage vehicle fleets, enabling registration, consultation, and administrative control of vehicles and related processes.
+
+**🔧 Tech Stack:**
+- Frontend: React, Material UI, Axios  
+- Backend: NestJS, Node.js  
+- Database: PostgreSQL with TypeORM  
+
+**⚙️ Key Features:**
+- Vehicle registration and management  
+- File upload handling (e.g., documents, tickets)  
+- Authentication and authorization using JWT  
+- Form validation with class-validator and React Hook Form  
+- RESTful API integration between frontend and backend  
+
+**🏗️ Architecture:**
+- Modular backend architecture using NestJS  
+- Separation of concerns (controllers, services, modules)  
+- Scalable and maintainable project structure  
+- Client-server communication via REST APIs  
+
 ---
 
 # 📊 GitHub Stats:
