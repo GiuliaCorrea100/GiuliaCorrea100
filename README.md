@@ -100,9 +100,3 @@ A full-stack web application designed to manage vehicle fleets, enabling registr
 - Separation of concerns (controllers, services, modules)  
 - Scalable and maintainable project structure  
 - Client-server communication via REST APIs  
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCorrea100&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
