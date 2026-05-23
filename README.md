@@ -36,7 +36,7 @@
 
 ### Database & ORM
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)![TypeORM](https://img.shields.io/badge/typeorm-%23FE0803.svg?style=plastic)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![TypeORM](https://img.shields.io/badge/typeorm-%23FE0803.svg?style=plastic)
 
 ---
 
