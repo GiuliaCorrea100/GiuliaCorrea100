@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩🏻‍💻 About Me:
 
 🍎 Front-End Developer passionate about building user-friendly, scalable, and efficient web applications. Always eager to tackle new challenges, enhance my skills, and work with modern frameworks to create innovative, user-centered solutions.
 
@@ -75,3 +75,12 @@ A full-stack web application designed to manage vehicle fleets, enabling registr
 - Separation of concerns (controllers, services, modules)
 - Scalable and maintainable project structure
 - Client-server communication via REST APIs
+
+  
+---
+
+
+# 📊 GitHub Stats:
+
+![](https://streak-stats.demolab.com/?user=GiuliaCorrea100&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GiuliaCorrea100&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
