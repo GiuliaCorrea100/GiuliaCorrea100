@@ -12,7 +12,7 @@
 
 # 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giulia__correa_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giulia__correa_)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giulia__correa_)
 
 📫 Email: giuliarafaela32@gmail.com
 
