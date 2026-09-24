@@ -1,79 +1,61 @@
-# 👩🏻‍💻 About Me:
+# 👩🏻‍💻 Olá! Eu sou a Giulia!
 
-🍎 Full-Stack Developer.
+💻 Desenvolvedora Full-Stack | 🎓 Ciência da Computação.
 
-🎓 Pursuing a Bachelor’s degree in Computer Science at UNIR - Universidade Federal de Rondônia.
+Sou estudante de Ciência da Computação na Universidade Federal de Rondônia (UNIR) e desenvolvedora Full-Stack, com foco no desenvolvimento de aplicações web, APIs REST e sistemas de gerenciamento.
 
-🔧 Ongoing projects include:
-- 🚘 A vehicle registration, consultation and management system web-based platform.
+Tenho experiência com desenvolvimento Front-end e Back-end, trabalhando principalmente com React, TypeScript, Node.js, NestJS e PostgreSQL.
+
+Atualmente, estou desenvolvendo projetos voltados para sistemas de gestão, autenticação, integração de APIs e gerenciamento de dados.
+---
+
+# Sobre mim:
+
+💻 Desenvolvedora Full-Stack
+🎓 Graduanda em Ciência da Computação — UNIR
+🌐 Desenvolvimento de aplicações web e APIs REST
+🧩 Experiência com arquitetura modular e separação de responsabilidades
+🔐 Autenticação e autorização utilizando JWT
+🗄️ Desenvolvimento e integração com bancos de dados relacionais
+📚 Atualmente aprimorando minhas habilidades em desenvolvimento de software e arquitetura de aplicações
 
 ---
 
-# 🌐 Socials:
+# 💻 Tech Stack
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giulia__correa_)
+### 🌐 Front-end
 
-📫 Email: giuliarafaela32@gmail.com
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-👩🏻‍💻 LinkedIn: https://www.linkedin.com/in/giulia-correa-3358352a1
+### ⚙️ Back-end
 
----
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 
-# 💻 Tech Stack:
+### 🗄️ Banco de Dados
 
-### Languages
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300748F.svg?style=plastic&logo=postgresql&logoColor=white)
+### 🔄 Versionamento & CI/CD
 
----
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
-### Frameworks, Platforms & Libraries
+### 📦 Ferramentas & Ecossistema
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![Axios](https://img.shields.io/badge/axios-%235A29E4.svg?style=plastic&logo=axios&logoColor=white) ![React Hook Form](https://img.shields.io/badge/react--hook--form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-
----
-
-### Database & ORM
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![TypeORM](https://img.shields.io/badge/typeorm-%23FE0803.svg?style=plastic)
-
----
-
-### CI/CD & VCS
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-
----
-
-### Design & Tools
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE) ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=plastic&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-
----
-
-# 🚀 Featured Projects
-
-### 🚘 Fleet Management System (Frotas)
-
-A full-stack web application designed to manage vehicle fleets, enabling registration, consultation, and administrative control of vehicles and related processes.
-
-**🔧 Tech Stack:**
-- Frontend: React, Material UI, Axios
-- Backend: NestJS, Node.js
-- Database: PostgreSQL with TypeORM
-
-**⚙️ Key Features:**
-- Vehicle registration and management
-- File upload handling (e.g., documents, tickets)
-- Authentication and authorization using JWT
-- Form validation with class-validator and React Hook Form
-- RESTful API integration between frontend and backend
-
-**🏗️ Architecture:**
-- Modular backend architecture using NestJS
-- Separation of concerns (controllers, services, modules)
-- Scalable and maintainable project structure
-- Client-server communication via REST APIs
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE)
 
   
 ---
