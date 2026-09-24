@@ -11,12 +11,12 @@ Atualmente, estou desenvolvendo projetos voltados para sistemas de gestão, aute
 
 # Sobre mim:
 
-💻 Desenvolvedora Full-Stack
-🎓 Graduanda em Ciência da Computação — UNIR
-🌐 Desenvolvimento de aplicações web e APIs REST
-🧩 Experiência com arquitetura modular e separação de responsabilidades
-🔐 Autenticação e autorização utilizando JWT
-🗄️ Desenvolvimento e integração com bancos de dados relacionais
+💻 Desenvolvedora Full-Stack<br>
+🎓 Graduanda em Ciência da Computação — UNIR<br>
+🌐 Desenvolvimento de aplicações web e APIs REST<br>
+🧩 Experiência com arquitetura modular e separação de responsabilidades<br>
+🔐 Autenticação e autorização utilizando JWT<br>
+🗄️ Desenvolvimento e integração com bancos de dados relacionais<br>
 📚 Atualmente aprimorando minhas habilidades em desenvolvimento de software e arquitetura de aplicações
 
 ---
