@@ -6,8 +6,6 @@ Sou estudante de Ciência da Computação na Universidade Federal de Rondônia (
 
 Tenho experiência com desenvolvimento Front-end e Back-end, trabalhando principalmente com React, TypeScript, Node.js, NestJS e PostgreSQL.
 
-Atualmente, estou desenvolvendo projetos voltados para sistemas de gestão, autenticação, integração de APIs e gerenciamento de dados.
----
 
 # Sobre mim:
 
