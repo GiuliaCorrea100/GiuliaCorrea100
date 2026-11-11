@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Olá! Eu sou a Giulia!
 
-💻 Desenvolvedora Full-Stack | 🎓 Ciência da Computação.
+💻 Engenheira de Software Full-Stack | 🎓 Ciência da Computação.
 
 Sou estudante de Ciência da Computação na Universidade Federal de Rondônia (UNIR) e desenvolvedora Full-Stack, com foco no desenvolvimento de aplicações web, APIs REST e sistemas de gerenciamento.
 
